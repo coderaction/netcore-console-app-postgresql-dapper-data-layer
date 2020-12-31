@@ -1,0 +1,12 @@
+/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/ConsoleApplication/bin/Debug/netcoreapp3.1/ConsoleApplication.deps.json
+/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/ConsoleApplication/bin/Debug/netcoreapp3.1/ConsoleApplication.runtimeconfig.json
+/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/ConsoleApplication/bin/Debug/netcoreapp3.1/ConsoleApplication.runtimeconfig.dev.json
+/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/ConsoleApplication/bin/Debug/netcoreapp3.1/ConsoleApplication.dll
+/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/ConsoleApplication/bin/Debug/netcoreapp3.1/ConsoleApplication.pdb
+/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/ConsoleApplication/obj/Debug/netcoreapp3.1/ConsoleApplication.csprojAssemblyReference.cache
+/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/ConsoleApplication/obj/Debug/netcoreapp3.1/ConsoleApplication.AssemblyInfoInputs.cache
+/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/ConsoleApplication/obj/Debug/netcoreapp3.1/ConsoleApplication.AssemblyInfo.cs
+/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/ConsoleApplication/obj/Debug/netcoreapp3.1/ConsoleApplication.csproj.CoreCompileInputs.cache
+/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/ConsoleApplication/obj/Debug/netcoreapp3.1/ConsoleApplication.dll
+/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/ConsoleApplication/obj/Debug/netcoreapp3.1/ConsoleApplication.pdb
+/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/ConsoleApplication/obj/Debug/netcoreapp3.1/ConsoleApplication.genruntimeconfig.cache

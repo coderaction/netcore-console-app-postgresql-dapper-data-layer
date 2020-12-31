@@ -1,1 +1,1 @@
-# netcore-job-postgresql-desing
+# netcore-console-app-postgresql-desing

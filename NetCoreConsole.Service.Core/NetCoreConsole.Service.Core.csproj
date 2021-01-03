@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.1</TargetFramework>
+        <AssemblyName>NetCoreConsole.Service.Core</AssemblyName>
+        <RootNamespace>NetCoreConsole.Service.Core</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\NetCoreConsole.Common\NetCoreConsole.Common.csproj" />
+    </ItemGroup>
+
+</Project>

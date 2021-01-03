@@ -2,10 +2,11 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using NetCoreConsole.Common;
 
-namespace NetCoreConsole.Core
+namespace NetCoreConsole.Service.Core
 {
-    public class IPlayService
+    public interface IPlayService
     {
-        Task<List<PlayModel>> GetPlayMember(string date);
+        List<PlayDataCorrectionModel> GetIncorrectPaidAtRetailerStatusBetSlips();
+        Task<List<PlayModel>> GetData(string date);
     }
 }

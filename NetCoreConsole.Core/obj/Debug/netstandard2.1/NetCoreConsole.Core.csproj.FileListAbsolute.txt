@@ -1,0 +1,12 @@
+/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.Core/bin/Debug/netstandard2.1/NetCoreConsole.Core.deps.json
+/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.Core/bin/Debug/netstandard2.1/NetCoreConsole.Core.dll
+/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.Core/bin/Debug/netstandard2.1/NetCoreConsole.Core.pdb
+/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.Core/bin/Debug/netstandard2.1/NetCoreConsole.Common.dll
+/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.Core/bin/Debug/netstandard2.1/NetCoreConsole.Common.pdb
+/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.Core/obj/Debug/netstandard2.1/NetCoreConsole.Core.csprojAssemblyReference.cache
+/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.Core/obj/Debug/netstandard2.1/NetCoreConsole.Core.AssemblyInfoInputs.cache
+/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.Core/obj/Debug/netstandard2.1/NetCoreConsole.Core.AssemblyInfo.cs
+/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.Core/obj/Debug/netstandard2.1/NetCoreConsole.Core.csproj.CoreCompileInputs.cache
+/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.Core/obj/Debug/netstandard2.1/NetCoreConsole.Core.csproj.CopyComplete
+/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.Core/obj/Debug/netstandard2.1/NetCoreConsole.Core.dll
+/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.Core/obj/Debug/netstandard2.1/NetCoreConsole.Core.pdb

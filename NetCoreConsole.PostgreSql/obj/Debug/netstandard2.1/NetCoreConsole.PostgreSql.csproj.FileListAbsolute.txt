@@ -1,0 +1,14 @@
+/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.PostgreSql/bin/Debug/netstandard2.1/NetCoreConsole.PostgreSql.deps.json
+/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.PostgreSql/bin/Debug/netstandard2.1/NetCoreConsole.PostgreSql.dll
+/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.PostgreSql/bin/Debug/netstandard2.1/NetCoreConsole.PostgreSql.pdb
+/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.PostgreSql/bin/Debug/netstandard2.1/NetCoreConsole.Common.dll
+/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.PostgreSql/bin/Debug/netstandard2.1/NetCoreConsole.Core.dll
+/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.PostgreSql/bin/Debug/netstandard2.1/NetCoreConsole.Core.pdb
+/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.PostgreSql/bin/Debug/netstandard2.1/NetCoreConsole.Common.pdb
+/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.PostgreSql/obj/Debug/netstandard2.1/NetCoreConsole.PostgreSql.csprojAssemblyReference.cache
+/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.PostgreSql/obj/Debug/netstandard2.1/NetCoreConsole.PostgreSql.AssemblyInfoInputs.cache
+/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.PostgreSql/obj/Debug/netstandard2.1/NetCoreConsole.PostgreSql.AssemblyInfo.cs
+/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.PostgreSql/obj/Debug/netstandard2.1/NetCoreConsole.PostgreSql.csproj.CoreCompileInputs.cache
+/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.PostgreSql/obj/Debug/netstandard2.1/NetCoreConsole.PostgreSql.csproj.CopyComplete
+/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.PostgreSql/obj/Debug/netstandard2.1/NetCoreConsole.PostgreSql.dll
+/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.PostgreSql/obj/Debug/netstandard2.1/NetCoreConsole.PostgreSql.pdb

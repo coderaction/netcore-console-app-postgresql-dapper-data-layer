@@ -2,7 +2,7 @@ using System;
 
 namespace NetCoreConsole.Common
 {
-    public class BetSlipDataCorrectionModel
+    public class PlayDataCorrectionModel
     {
         public int Id { get; set; }
 
@@ -12,10 +12,6 @@ namespace NetCoreConsole.Common
 
         public decimal Amount { get; set; }
 
-        public int RetailerId { get; set; }
-
         public object ClientIp { get; set; }
-        
-        public string Barcode { get; set; }
     }
 }

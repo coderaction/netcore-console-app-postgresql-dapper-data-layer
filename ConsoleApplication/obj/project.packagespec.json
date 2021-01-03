@@ -18,7 +18,23 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "projectReferences": {}
+        "projectReferences": {
+          "/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.Common/NetCoreConsole.Common.csproj": {
+            "projectPath": "/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.Common/NetCoreConsole.Common.csproj"
+          },
+          "/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.Core/NetCoreConsole.Core.csproj": {
+            "projectPath": "/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.Core/NetCoreConsole.Core.csproj"
+          },
+          "/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.PostgreSql/NetCoreConsole.PostgreSql.csproj": {
+            "projectPath": "/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.PostgreSql/NetCoreConsole.PostgreSql.csproj"
+          },
+          "/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.Service.Core/NetCoreConsole.Service.Core.csproj": {
+            "projectPath": "/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.Service.Core/NetCoreConsole.Service.Core.csproj"
+          },
+          "/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.Service/NetCoreConsole.Service.csproj": {
+            "projectPath": "/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.Service/NetCoreConsole.Service.csproj"
+          }
+        }
       }
     },
     "warningProperties": {
@@ -29,6 +45,16 @@
   },
   "frameworks": {
     "netcoreapp3.1": {
+      "dependencies": {
+        "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.Extensions.Configuration.Json": {
+          "target": "Package",
+          "version": "[5.0.0, )"
+        }
+      },
       "imports": [
         "net461",
         "net462",

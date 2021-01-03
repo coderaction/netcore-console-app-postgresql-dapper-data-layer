@@ -1,0 +1,54 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.Core/NetCoreConsole.Core.csproj",
+    "projectName": "NetCoreConsole.Core",
+    "projectPath": "/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.Core/NetCoreConsole.Core.csproj",
+    "outputPath": "/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.Core/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netstandard2.1"
+    ],
+    "sources": {
+      "http://nuget.iddaa.com/v3/index.json": {},
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "projectReferences": {
+          "/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.Common/NetCoreConsole.Common.csproj": {
+            "projectPath": "/Users/serkaneren/Desktop/gitP/netcore-job-postgresql-desing/NetCoreConsole.Common/NetCoreConsole.Common.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netstandard2.1": {
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "frameworkReferences": {
+        "NETStandard.Library": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+    }
+  }
+}

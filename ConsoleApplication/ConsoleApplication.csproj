@@ -5,4 +5,30 @@
         <TargetFramework>netcoreapp3.1</TargetFramework>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Reference Include="Microsoft.Extensions.DependencyInjection, Version=3.0.3.0, Culture=neutral, PublicKeyToken=adb9793829ddae60">
+        <HintPath>..\..\..\..\.nuget\packages\microsoft.extensions.dependencyinjection\3.0.3\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\NetCoreConsole.Common\NetCoreConsole.Common.csproj" />
+      <ProjectReference Include="..\NetCoreConsole.Core\NetCoreConsole.Core.csproj" />
+      <ProjectReference Include="..\NetCoreConsole.PostgreSql\NetCoreConsole.PostgreSql.csproj" />
+      <ProjectReference Include="..\NetCoreConsole.Service.Core\NetCoreConsole.Service.Core.csproj" />
+      <ProjectReference Include="..\NetCoreConsole.Service\NetCoreConsole.Service.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.Extensions.Configuration.EnvironmentVariables" Version="2.2.0" />
+      <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="5.0.0" />
+    </ItemGroup>
+
+
+    <ItemGroup>
+        <None Update="appsettings.json">
+            <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+        </None>
+    </ItemGroup>
+
 </Project>

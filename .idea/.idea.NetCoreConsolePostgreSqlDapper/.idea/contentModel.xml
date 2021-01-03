@@ -3,8 +3,10 @@
   <component name="ContentModelStore">
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="ConsoleApplication" t="IncludeRecursive">
+        <e p="appsettings.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="ConsoleApplication.csproj" t="IncludeRecursive" />
+        <e p="DependencyRegistrar.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.1" t="Include">
@@ -13,6 +15,69 @@
           </e>
         </e>
         <e p="Program.cs" t="Include" />
+      </e>
+      <e p="NetCoreConsole.Common" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="IocContainer.cs" t="Include" />
+        <e p="NetCoreConsole.Common.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.1" t="Include">
+              <e p="NetCoreConsole.Common.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PlayDataCorrectionModel.cs" t="Include" />
+        <e p="PlayModel.cs" t="Include" />
+      </e>
+      <e p="NetCoreConsole.Core" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="IPlayRepository.cs" t="Include" />
+        <e p="NetCoreConsole.Core.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.1" t="Include">
+              <e p="NetCoreConsole.Core.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="NetCoreConsole.PostgreSql" t="IncludeRecursive">
+        <e p="BaseRepository.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="NetCoreConsole.PostgreSql.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.1" t="Include">
+              <e p="NetCoreConsole.PostgreSql.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PlayRepository.cs" t="Include" />
+      </e>
+      <e p="NetCoreConsole.Service" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="NetCoreConsole.Service.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.1" t="Include">
+              <e p="NetCoreConsole.Service.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PlayService.cs" t="Include" />
+      </e>
+      <e p="NetCoreConsole.Service.Core" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="IPlayService.cs" t="Include" />
+        <e p="NetCoreConsole.Service.Core.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.1" t="Include">
+              <e p="NetCoreConsole.Service.Core.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
       </e>
       <e p="NetCoreConsolePostgreSqlDapper.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
